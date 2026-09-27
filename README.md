@@ -9,4 +9,4 @@ springs across Lebanon.
 
 ## Live App
 
-[Open the Streamlit App](PASTE_STREAMLIT_LINK_HERE)
+[Open the Streamlit App](https://lebanon-water-infrastructure.streamlit.app/)
